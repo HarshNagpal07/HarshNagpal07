@@ -56,6 +56,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshNagpal07&show_icons=true&theme=radical" alt="Harsh's GitHub stats" width="410"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshNagpal07&layout=compact&theme=radical" alt="Top Languages" width="325"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshNagpal07&theme=radical" alt="GitHub Streak" width="410"/>
 </p>
 
 ---
