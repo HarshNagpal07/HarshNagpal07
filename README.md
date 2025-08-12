@@ -67,4 +67,4 @@
 
 ---
 
-*Fun Fact: I love building tools that make life easier and more fun!*
+Fun Fact: I love building tools that make life easier and more fun!
