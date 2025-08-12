@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Nagpal</h1>
-<h3 align="center">Motivated and detail-oriented Web Developer from Chandigarh</h3>
+<h3 align="center">Motivated and detail-oriented Web Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hnagpal056/" target="_blank">
