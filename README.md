@@ -60,8 +60,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshNagpal07&show_icons=true&theme=radical" alt="Harsh's GitHub stats" width="410"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshNagpal07&layout=compact&theme=radical" alt="Top Languages" width="325"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=HarshNagpal07&theme=radical&hide_border=true" alt="GitHub Streak" width="735"/>
 </p>
 
 ---
